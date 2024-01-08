@@ -17,5 +17,5 @@ https://stackedit.io/app#
 https://www.youtube.com/watch?v=GeeVnAftaeY
 
 <video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=GeeVnAftaeY" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=GeeVnAftaeY">
 </video>
