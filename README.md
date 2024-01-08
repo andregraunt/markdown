@@ -1,3 +1,14 @@
+
+
+
+
+       
+  <center>
+Этот текст выровнен по центру
+</center>     
+       
+       
+       
        markdown oooo
               $ hfhuhhiohdf hjujhiohoihoifd
 # markdown
