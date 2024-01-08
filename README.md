@@ -1,3 +1,8 @@
+
+<div style="text-align: center;">
+  <p>Этот текст будет по центру страницы</p>
+</div>
+
 <p style="text-align: center;">Этот текст по центру</p>
 
 ::: center 
