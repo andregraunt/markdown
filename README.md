@@ -1,6 +1,6 @@
 #  markdown
 > ns dkmnklm dc knckdc kmkmkdc
->                               marcdown
+>             marcdown
 
 Примеры ![](/images/balloon.gif) 
 ![search](/smilies/search.gif "Поиск")
